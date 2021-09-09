@@ -7,7 +7,7 @@ description: Function Grapher with set range and discretization
 import matplotlib.pyplot as plt
 
 #solving the function1/2x^3+3x^2-2x+2 as an example. You can change the values disc, rnge and the function in line 22 to solve your's
-disc=100  #precision 0.001 (disc-<discretization=1/precision),
+disc=100  #precision 0.01 (disc-<discretization=1/precision),
 x=[]
 i=0
 rnge=100 #x from -rnge to rnge 
