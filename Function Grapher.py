@@ -19,5 +19,5 @@ y=[]
 for i in x:
     y.append(1/2*i**3+3*i**2-2*i+2) #Here is the function to be solved. Change it with yours
 plt.plot(x,y)
-plt.ylabel('1/2*i**3+3*i**2-2*i+2') #Here is the name the function to be solved. Change it with yours
+plt.ylabel('1/2*i**3+3*i**2-2*i+2') #Here is the name of the function to be solved. Change it with yours
 plt.show()
